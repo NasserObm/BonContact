@@ -1,11 +1,32 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
-    <mxGraphModel dx="1425" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1781" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="xvnTONWLQVDqcpAfp-L4-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="500" y="130" width="950" height="950" as="geometry" />
+          <mxGeometry x="500" y="130" width="1090" height="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="T2HE04j4VKxLRidxwaBC-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="xvnTONWLQVDqcpAfp-L4-2" target="xvnTONWLQVDqcpAfp-L4-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T2HE04j4VKxLRidxwaBC-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="xvnTONWLQVDqcpAfp-L4-2" target="xvnTONWLQVDqcpAfp-L4-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T2HE04j4VKxLRidxwaBC-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="xvnTONWLQVDqcpAfp-L4-2" target="xvnTONWLQVDqcpAfp-L4-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T2HE04j4VKxLRidxwaBC-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="xvnTONWLQVDqcpAfp-L4-2" target="xvnTONWLQVDqcpAfp-L4-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T2HE04j4VKxLRidxwaBC-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="xvnTONWLQVDqcpAfp-L4-2" target="xvnTONWLQVDqcpAfp-L4-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T2HE04j4VKxLRidxwaBC-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="xvnTONWLQVDqcpAfp-L4-2" target="xvnTONWLQVDqcpAfp-L4-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T2HE04j4VKxLRidxwaBC-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="xvnTONWLQVDqcpAfp-L4-2" target="xvnTONWLQVDqcpAfp-L4-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xvnTONWLQVDqcpAfp-L4-2" value="client" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;direction=east;" parent="1" vertex="1">
           <mxGeometry x="399" y="510" width="31" height="60" as="geometry" />
@@ -65,7 +86,7 @@
           <mxGeometry x="930" y="910" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xvnTONWLQVDqcpAfp-L4-25" value="se connecter" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1270" y="520" width="120" height="80" as="geometry" />
+          <mxGeometry x="1400" y="670" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xvnTONWLQVDqcpAfp-L4-35" value="gerer les demandes de service" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="1000" width="120" height="80" as="geometry" />
@@ -75,6 +96,9 @@
         </mxCell>
         <mxCell id="T2HE04j4VKxLRidxwaBC-2" value="finaliser une demade de service" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="1000" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T2HE04j4VKxLRidxwaBC-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.325;entryY=0.064;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xvnTONWLQVDqcpAfp-L4-2" target="xvnTONWLQVDqcpAfp-L4-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
